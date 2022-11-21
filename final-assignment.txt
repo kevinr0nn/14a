@@ -1,3 +1,28 @@
 name, email,repository
 
 michel, michel@learnet.se, michellundell/ticket
+
+mohamud,
+ahmed a,
+hussein,
+mohib ali,
+jonathan,
+daniel b,
+jimmy,
+arwen,
+julie anne,
+joakim,
+fisnik,
+anda,
+riza,
+dishad,
+tobias,
+ali,
+sadiiq,
+syed,
+ahmed m,
+nicolas,
+jesper,
+kevin,
+daniel ö,
+
