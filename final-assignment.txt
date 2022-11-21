@@ -24,5 +24,5 @@ ahmed m,
 nicolas,
 jesper,
 kevin,
-daniel ö,
+daniel ö, daniel.orhill@studerande.movant.se, Gorillaism/Ticket
 
