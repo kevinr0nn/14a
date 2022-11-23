@@ -18,7 +18,7 @@ riza,
 dishad,
 tobias,
 ali,
-sadiiq,
+sadiiq, sadiiq.kaysa@learnet.se,  https://github.com/Sadiiqk/flight-and-ticket-system
 syed,
 ahmed m,
 nicolas,
