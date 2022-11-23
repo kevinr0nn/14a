@@ -2,7 +2,7 @@ name, email,repository
 
 michel, michel@learnet.se, michellundell/ticket
 
-mohamud,
+mohamud,mohamud.abdi@studerande.movant.se, github.com/Mohamud74/ticket-system
 ahmed a,
 hussein,
 mohib ali,
