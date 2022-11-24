@@ -22,7 +22,7 @@ sadiiq,
 syed,
 ahmed m,
 nicolas,
-jesper,
+jesper, jesper.rehnfors@studerande.movant.se, Rehnfors/Ticket
 kevin,
 daniel ö, daniel.orhill@studerande.movant.se, Gorillaism/Ticket
 
