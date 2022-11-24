@@ -4,7 +4,7 @@ michel, michel@learnet.se, michellundell/ticket
 
 mohamud,
 ahmed a,
-hussein,
+hussein, hussein.ahmad@learnet.se, HusseinAhmad1/Tickets.cpp
 mohib ali,
 jonathan,
 daniel b, daniel.barbis@learnet.se, Frowsty/ticket-system
