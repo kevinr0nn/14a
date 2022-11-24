@@ -11,7 +11,7 @@ daniel b, daniel.barbis@learnet.se, Frowsty/ticket-system
 jimmy,
 arwen,
 julie anne,
-joakim,
+joakim, joakimenglund@protonmail.com, Wayazaexa/CplusplusAssignment
 fisnik,
 anda,
 riza,
