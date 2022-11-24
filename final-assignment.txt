@@ -21,7 +21,7 @@ ali,
 sadiiq, sadiiq.kaysa@learnet.se,  https://github.com/Sadiiqk/flight-and-ticket-system
 syed,
 ahmed m,
-nicolas,
+nicolas, nicolas.munoz@learnet.se, Nicklnt/tycket_program
 jesper, jesper.rehnfors@studerande.movant.se, Rehnfors/Ticket
 kevin,
 daniel ö, daniel.orhill@studerande.movant.se, Gorillaism/Ticket
