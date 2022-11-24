@@ -16,7 +16,7 @@ fisnik,
 anda,
 riza,
 dishad,
-tobias,
+tobias, tobias.hoglin@gmail.com, TobiasHoglin/FlightTicket
 ali,
 sadiiq,
 syed,
