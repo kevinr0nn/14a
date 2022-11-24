@@ -19,7 +19,7 @@ dishad,
 tobias,
 ali,
 sadiiq, sadiiq.kaysa@learnet.se,  https://github.com/Sadiiqk/flight-and-ticket-system
-syed,
+syed, kazmisag@gmail.com, https://github.com/kazmisag/Ticket.git
 ahmed m,
 nicolas,
 jesper, jesper.rehnfors@studerande.movant.se, Rehnfors/Ticket
