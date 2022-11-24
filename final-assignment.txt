@@ -8,7 +8,7 @@ hussein,
 mohib ali,
 jonathan,
 daniel b, daniel.barbis@learnet.se, Frowsty/ticket-system
-jimmy,
+jimmy, jimmy.barr94@gmail.com, JimnyB/Flightexam
 arwen,
 julie anne,
 joakim,
