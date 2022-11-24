@@ -5,7 +5,7 @@ michel, michel@learnet.se, michellundell/ticket
 mohamud,mohamud.abdi@studerande.movant.se, github.com/Mohamud74/ticket-system
 ahmed a,
 hussein, hussein.ahmad@learnet.se, HusseinAhmad1/Tickets.cpp
-mohib ali,
+mohib ali, mohibali.akbari@studerande.movant.se, elevUser/Ticket
 jonathan,
 daniel b, daniel.barbis@learnet.se, Frowsty/ticket-system
 jimmy, jimmy.barr94@gmail.com, JimnyB/Flightexam
