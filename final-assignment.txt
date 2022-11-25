@@ -13,7 +13,7 @@ arwen,
 julie anne,
 joakim, joakimenglund@protonmail.com, Wayazaexa/CplusplusAssignment
 fisnik,
-anda,
+anda, andastefania.ghita@gmail.com, AndaGhita/Flights-Tickets
 riza,
 dishad,
 tobias,
