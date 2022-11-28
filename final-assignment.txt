@@ -16,7 +16,7 @@ fisnik,
 anda, andastefania.ghita@gmail.com, AndaGhita/Flights-Tickets
 riza,
 dishad,
-tobias,
+tobias, tobias.hoglin@gmail.com, TobiasHoglin/FlightTicket
 ali,
 sadiiq, sadiiq.kaysa@learnet.se,  https://github.com/Sadiiqk/flight-and-ticket-system
 syed, kazmisag@gmail.com, https://github.com/kazmisag/Ticket.git
