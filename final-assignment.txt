@@ -23,6 +23,6 @@ syed, kazmisag@gmail.com, https://github.com/kazmisag/Ticket.git
 ahmed m,
 nicolas, nicolas.munoz@learnet.se, Nicklnt/tycket_program
 jesper, jesper.rehnfors@studerande.movant.se, Rehnfors/Ticket
-kevin,
+kevin, kevin.ronn@studerande.movant.se, kevinr0nn/New 15a Examination
 daniel ö, daniel.orhill@studerande.movant.se, Gorillaism/Ticket
 
