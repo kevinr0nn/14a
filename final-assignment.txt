@@ -10,7 +10,7 @@ jonathan,
 daniel b, daniel.barbis@learnet.se, Frowsty/ticket-system
 jimmy, jimmy.barr94@gmail.com, JimnyB/Flightexam
 arwen,
-julie anne,
+julie anne, julie.cantillep@studerande.movant.se, https://github.com/Julieanna97/4a-files-cpp
 joakim, joakimenglund@protonmail.com, Wayazaexa/CplusplusAssignment
 fisnik,
 anda, andastefania.ghita@gmail.com, AndaGhita/Flights-Tickets
